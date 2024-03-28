@@ -1,0 +1,23 @@
+body{
+    background-color: #1b1b1f;
+    color: rgb(255, 255, 255);
+}
+
+.card-body{
+    background-color: #1b1b1f;
+}
+
+.card-body textarea:focus{
+    background-color: #1b1b1fbb;
+    color: white;
+}
+
+.card-body textarea{
+    background-color: #1b1b1f;
+}
+
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+}
